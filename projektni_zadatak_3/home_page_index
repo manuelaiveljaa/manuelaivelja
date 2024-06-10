@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html> - početni „tag“ (oznaka ili element)
+<head>
+<title>naslov dokumenta</title>
+</head>
+<body> ...sve što se prikazuje u prozoru preglednika... </body>
+</html> - završni „tag“
